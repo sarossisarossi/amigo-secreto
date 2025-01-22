@@ -65,4 +65,5 @@ function sortearAmigo(){
     boton.style.cursor = "not-allowed"; // Cambiar el cursor
     boton2.style.opacity = "0.5"; // Estilo visual para mostrar que está inactivo
     boton2.style.cursor = "not-allowed"; // Cambiar el cursor
+    asignarTextoElemento('msj-error','')
 }
